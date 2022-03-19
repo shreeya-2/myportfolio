@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a,
+button {
+  cursor: pointer;
+}
+
+.btn {
+  border-radius: 14px;
+  border-style: hidden;
+}
+
+.hr {
+  border-style: solid;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
